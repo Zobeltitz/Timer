@@ -1,8 +1,8 @@
-AlloyTimer
+Timer
 ==========
-AlloyTimer定时器 - 番茄工作法的时间管理应用
+Timer定时器 - 番茄工作法的时间管理应用
 
-By [AlloyTeam](http://www.AlloyTeam.com/)
+By Chiang
 
 
 ### 番茄工作方法
